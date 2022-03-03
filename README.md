@@ -3,7 +3,7 @@ March 2nd, 2022
 
 Completed Exercise for 03-Juicy-Match-3
 
-#Implemented features:
+# Implemented features:
 - music
 - sound effects
 - change of icons
